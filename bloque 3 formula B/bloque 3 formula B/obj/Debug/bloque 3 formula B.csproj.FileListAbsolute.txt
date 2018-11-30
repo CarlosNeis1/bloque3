@@ -1,0 +1,6 @@
+C:\Users\shado\source\repos\bloque 3 formula B\bloque 3 formula B\bin\Debug\bloque 3 formula B.exe.config
+C:\Users\shado\source\repos\bloque 3 formula B\bloque 3 formula B\bin\Debug\bloque 3 formula B.exe
+C:\Users\shado\source\repos\bloque 3 formula B\bloque 3 formula B\bin\Debug\bloque 3 formula B.pdb
+C:\Users\shado\source\repos\bloque 3 formula B\bloque 3 formula B\obj\Debug\bloque 3 formula B.csproj.CoreCompileInputs.cache
+C:\Users\shado\source\repos\bloque 3 formula B\bloque 3 formula B\obj\Debug\bloque 3 formula B.exe
+C:\Users\shado\source\repos\bloque 3 formula B\bloque 3 formula B\obj\Debug\bloque 3 formula B.pdb
